@@ -1,0 +1,10 @@
+
+7
+java:S1220""Move this file to a named package.8´ˆÈ«ò1
+G	java:S106"+Replace this use of System.out by a logger.(­ëš¬8ÃˆÈ«ò1
+G	java:S106"+Replace this use of System.out by a logger.(œ‰·„8èêË«ò1
+]
+java:S2134"@Don't extend "Thread", since the "run" method is not overridden.(†´äÈ8ÁˆÈ«ò1
+e
+java:S3551"IMake this method "synchronized" to match the parent class implementation.(ú¡­,8ÂˆÈ«ò1
+L	java:S106"+Replace this use of System.out by a logger.(´©æ’ÿÿÿÿÿ8êêË«ò1

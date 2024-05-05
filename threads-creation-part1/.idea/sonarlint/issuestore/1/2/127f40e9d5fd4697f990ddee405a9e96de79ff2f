@@ -1,0 +1,8 @@
+
+7
+java:S1220""Move this file to a named package.8çú€ó1
+]	java:S125"<This block of commented-out lines of code should be removed.(Äç–ôüÿÿÿÿ8­çú€ó1
+L	java:S106"+Replace this use of System.out by a logger.(›÷Ş«ùÿÿÿÿ8®çú€ó1
+G	java:S106!"+Replace this use of System.out by a logger.(„»‚š8®çú€ó1
+V
+java:S11177":Rename "result" which hides the field declared at line 41.(¶¡Èu8²çú€ó1
