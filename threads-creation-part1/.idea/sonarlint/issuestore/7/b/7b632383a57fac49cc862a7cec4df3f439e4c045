@@ -1,3 +1,10 @@
 
+g	java:S112?"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ8üïÅÊô1
 7
-java:S1220""Move this file to a named package.8‡ÙÉÇô1
+java:S1220""Move this file to a named package.8şïÅÊô1
+N
+java:S1153#"1Directly append the argument of String.valueOf().(“Ğã8şïÅÊô1
+]	java:S125"<This block of commented-out lines of code should be removed.(¯©î¦üÿÿÿÿ8—œÚÊô1
+G	java:S106#"+Replace this use of System.out by a logger.(“Ğã8¸ğÅÊô1
+{
+java:S2142>"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8¾ğÅÊô1
