@@ -8,14 +8,14 @@ public class DataRacing {
     public static void main(String[] args) {
         SharedClass sharedClass = new SharedClass();
 
-        Thread thread1 = new Thread(()-> {
-            for(int i=0; i < Integer.MAX_VALUE; i++){
+        Thread thread1 = new Thread(() -> {
+            for (int i = 0; i < Integer.MAX_VALUE; i++) {
                 sharedClass.inrement();
             }
         });
 
-        Thread thread2 = new Thread(()-> {
-            for(int i=0; i < Integer.MAX_VALUE; i++){
+        Thread thread2 = new Thread(() -> {
+            for (int i = 0; i < Integer.MAX_VALUE; i++) {
                 sharedClass.checkDataRacing();
             }
         });
@@ -25,17 +25,17 @@ public class DataRacing {
     }
 
 
-    public static class SharedClass{
-        private int x =0;
-        private int y =0;
+    public static class SharedClass {
+        private volatile int x = 0;
+        private volatile int y = 0;
 
-        public void inrement(){
-            x++;
-            y++;
+        public void inrement() {
+            this.x++;
+            this.y++;
         }
 
-        public void checkDataRacing(){
-            if(x> y){
+        public void checkDataRacing() {
+            if (y >x) {
                 System.out.println("x > y - DataRacing Detected");
             }
         }
