@@ -1,0 +1,21 @@
+
+q
+java:S1192"ODefine a constant instead of duplicating this literal " - Max value: " 4 times.(‚óç¬ÿÿÿÿÿ8Äõ·‰ù1
+q
+java:S1192"ODefine a constant instead of duplicating this literal " - Min value: " 4 times.(ùªÍ¥ÿÿÿÿÿ8…¯·‰ù1
+j
+java:S1192"HDefine a constant instead of duplicating this literal "Thread " 8 times.(‚óç¬ÿÿÿÿÿ8Äõ·‰ù1
+7
+java:S1220""Move this file to a named package.8Ý‹¨‰ù1
+L	java:S106"+Replace this use of System.out by a logger.(‚óç¬ÿÿÿÿÿ8í‹¨‰ù1
+L	java:S106"+Replace this use of System.out by a logger.(ùªÍ¥ÿÿÿÿÿ8í‹¨‰ù1
+L	java:S106"+Replace this use of System.out by a logger.(‚óç¬ÿÿÿÿÿ8î‹¨‰ù1
+L	java:S106"+Replace this use of System.out by a logger.(ùªÍ¥ÿÿÿÿÿ8ï‹¨‰ù1
+L	java:S106!"+Replace this use of System.out by a logger.(‚óç¬ÿÿÿÿÿ8Î€µ‰ù1
+L	java:S106""+Replace this use of System.out by a logger.(ùªÍ¥ÿÿÿÿÿ8ÑÔ·‰ù1
+L	java:S106&"+Replace this use of System.out by a logger.(‚óç¬ÿÿÿÿÿ8ˆ®¸‰ù1
+L	java:S106'"+Replace this use of System.out by a logger.(ùªÍ¥ÿÿÿÿÿ8™â¸‰ù1
+G	java:S1061"+Replace this use of System.out by a logger.(¥§’ó8œâ¸‰ù1
+{
+java:S21427"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8ˆ®¸‰ù1
+E	java:S1087")Either remove or fill this block of code.(ä ¹€8ˆ®¸‰ù1

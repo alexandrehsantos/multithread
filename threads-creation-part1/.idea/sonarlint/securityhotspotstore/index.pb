@@ -29,3 +29,9 @@ B
 src/StackHeap.java,0\f\0f2182f50fb1a0cb9f9cd2571703e3706ecd729b
 M
 src/SharingHeapVariables.java,c\0\c0e85538d0c3a285f7a8752a44a9dcf7546b02fd
+E
+src/PrimiteTypes.java,3\0\30ce78a9ca301d1313af803c4ab123946a8a20aa
+T
+$src/TestVolatilyPrimiiveMembers.java,e\0\e0aaac9c9acfbad88f2927d051ad073eae2c6c2d
+C
+src/DataRacing.java,b\c\bc3db30db420f8fb07dc9bdc82636e41cd3c0a6d
