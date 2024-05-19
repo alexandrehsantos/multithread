@@ -35,3 +35,5 @@ T
 $src/TestVolatilyPrimiiveMembers.java,e\0\e0aaac9c9acfbad88f2927d051ad073eae2c6c2d
 C
 src/DataRacing.java,b\c\bc3db30db420f8fb07dc9bdc82636e41cd3c0a6d
+G
+src/DeadlockSample.java,f\f\ff14908f2d74e5ef2e043647637eeffd59454424
