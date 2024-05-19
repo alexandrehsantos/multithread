@@ -25,3 +25,7 @@ G
 src/JoiningThreads.java,1\2\127f40e9d5fd4697f990ddee405a9e96de79ff2f
 M
 src/ChangeImageColorBits.java,7\b\7b632383a57fac49cc862a7cec4df3f439e4c045
+B
+src/StackHeap.java,0\f\0f2182f50fb1a0cb9f9cd2571703e3706ecd729b
+M
+src/SharingHeapVariables.java,c\0\c0e85538d0c3a285f7a8752a44a9dcf7546b02fd
